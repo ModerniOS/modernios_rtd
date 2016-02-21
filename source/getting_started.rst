@@ -12,35 +12,26 @@ Below list is chosen based on the criteria and is updated regularly:
 
 * And of course there may be many, we may be missing. Please submit pull-requests to the github repo and we will consider them for inclusion here.
 
-+-------------------------------------+----------------+--------------+-----------------------+
-| Link                                |  Type          |  Frequency   | Author(s)             |
-+=====================================+================+==============+=======================+
-| `iOS Dev Weekly`_                   | Newsletter     | Weekly       | Dave Verwer           |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `This Week in Swift`_               | Newsletter     | Weekly       | `Natasha The Robot`_  |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `Realm.io`_                         | Blog           | Often        | Multiple              |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `A Twitter List`_                   | Twitter        | Frequent     | Multiple              |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `Mike Ash`_                         | Blog           | Often        | Mike Ash              |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `Airspeed Velocity`_                | Blog           | Often        | Airspeed Velocity     |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `Cocoa With Love`_                  | Blog           | Often        | Matt Gallagher        |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `Erica Sadun`_                      | Blog           | Often        | Erica Sadun           |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `Flex Monkey`_                      | Blog           | Often        | Simon Gladman         |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `Little Bites of Cocoa`_            | Blog           | Weekdays     | Jake Marsh            |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `Cocoa Is My Girlfriend`_           | Blog           | Less         | Multiple              |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `NSHipster`_                        | Blog           | Less         | Multiple              |
-+-------------------------------------+----------------+--------------+-----------------------+
-| `objc.io`_                          | Blog           | Discontinued | Multiple              |
-+-------------------------------------+----------------+--------------+-----------------------+
+===================================== ============== ============== ====================
+Link                                  Type           Frequency      Author(s)
+===================================== ============== ============== ====================
+`iOS Dev Weekly`_                     Newsletter     Weekly         Dave Verwer
+`This Week in Swift`_                 Newsletter     Weekly         `Natasha The Robot`_
+`Realm.io`_                           Blog           Often          Multiple
+`A Twitter List`_                     Twitter        Frequent       Multiple
+`Mike Ash`_                           Blog           Often          Mike Ash
+`Airspeed Velocity`_                  Blog           Often          Airspeed Velocity
+`Cocoa With Love`_                    Blog           Often          Matt Gallagher
+`Inessential`_                        Blog           Often          Brent Simmons
+`Erica Sadun`_                        Blog           Often          Erica Sadun
+`Flex Monkey`_                        Blog           Often          Simon Gladman
+`Little Bites of Cocoa`_              Blog           Weekdays       Jake Marsh
+`NSScreencast`_                       Screencast     Frequent       Multiple
+`NSBrief`_                            Podcast        Less           Multiple
+`Cocoa Is My Girlfriend`_             Blog           Less           Multiple
+`NSHipster`_                          Blog           Less           Multiple
+`objc.io`_                            Blog           Discontinued   Multiple
+===================================== ============== ============== ====================
 
 
 .. _iOS Dev Weekly: https://iosdevweekly.com/
@@ -51,9 +42,12 @@ Below list is chosen based on the criteria and is updated regularly:
 .. _Mike Ash: https://mikeash.com/pyblog/
 .. _Airspeed Velocity: http://airspeedvelocity.net/
 .. _Cocoa With Love: http://www.cocoawithlove.com/
+.. _Inessential: http://inessential.com/
 .. _Erica Sadun: http://ericasadun.com/
 .. _Flex Monkey: http://flexmonkey.blogspot.de/
 .. _Little Bites of Cocoa: https://littlebitesofcocoa.com/
+.. _NSScreencast: http://nsscreencast.com/episodes
+.. _NSBrief: http://nsbrief.com/
 .. _Cocoa Is My Girlfriend: http://www.cimgf.com/
 .. _NSHipster: http://nshipster.com
 .. _objc.io: https://www.objc.io/issues/
