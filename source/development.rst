@@ -1,29 +1,15 @@
 Development Trends
 ==================
 
-Swift vs. Objective C
----------------------
 
 
-Architectures
--------------
+.. toctree::
+   :maxdepth: 2
 
-
-Dealing with Large Projects
----------------------------
-
-
-Building UI
------------
-
-
-Communicating with Backend APIs
--------------------------------
-
-
-Persisting Data
----------------
-
-
-Alternatives to Native iOS Development - A Brief Look
------------------------------------------------------
+   development/languages
+   development/architectures
+   development/scale
+   development/ui
+   development/data
+   development/api
+   development/alternatives
