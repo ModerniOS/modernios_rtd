@@ -89,14 +89,17 @@ Name                                  Author                         Level
 Bootcamps
 ---------
 
-=============================== ==========================================
+=============================== ================================================
 Link                            Description
-=============================== ==========================================
+=============================== ================================================
+`Codepath`_                     8 week free course with 2hr sessions in SF.
 `Big Nerd Ranch`_               Most well known. 3 locations in US.
-`Flatiron School`_              In NewYork.
-=============================== ==========================================
+`Flatiron School`_              In New York.
+=============================== ================================================
 
 .. _Bootcamps: https://blog.bloc.io/ultimate-guide-to-ios-developer-bootcamps/
+
+.. _Codepath: http://codepath.com/iosbootcamp
 .. _Big Nerd Ranch: https://www.bignerdranch.com/
 .. _Flatiron School: http://flatironschool.com/ios
 
@@ -108,15 +111,16 @@ Below is a list of conferences in 2016. This list is mainly compiled from the bl
 =================== ==================== =================== ===========
 Name                Date                 Location            Price
 =================== ==================== =================== ===========
-`try! Swift`_       2 - 4 March          Tokyo, Japan        ?
+`try! Swift`_       2 - 4 March          Tokyo, Japan        USD$300
+`mdevcon2016`_      17 - 18 March        Amsterdam           €165
 `Yosemite`_         14 - 17 March        Yosemite Park       US$1299
 `NSNorth`_          28 — 30 April        Toronto, Canada     CAD$899
 `UIKonf`_           22 - 25 May          Berlin              USD$450
 `WWDC 2016`_        June                 San Francisco       ?
 `Alt Conf`_         June                 San Francisco       Free
 `360|iDev`_         21 - 24 August       Denver              USD$799
-`iOSDevUK`_         5 - 8 Sep            Aberystwyth, Wales
-`NSSpain`_          14 - 16 Sep          Spain
+`iOSDevUK`_         5 - 8 Sep            Aberystwyth, Wales  £200
+`NSSpain`_          14 - 16 Sep          Spain               ?
 `Úll Conf`_         1 - 2 November       Killarney, Ireland  799
 =================== ==================== =================== ===========
 
@@ -125,6 +129,7 @@ Name                Date                 Location            Price
 
 .. _try! Swift: http://www.tryswiftconf.com/en
 .. _Yosemite: http://cocoaconf.com/yosemite
+.. _mdevcon2016: http://mdevcon.com/
 .. _NSNorth: https://nsnorth.ca/
 .. _iOSDevUK: http://www.iosdevuk.com/
 .. _UIKonf: http://www.uikonf.com/
