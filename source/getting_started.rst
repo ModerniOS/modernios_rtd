@@ -114,6 +114,7 @@ Name                Date                 Location            Price
 `try! Swift`_       2 - 4 March          Tokyo, Japan        USD$300
 `mdevcon2016`_      17 - 18 March        Amsterdam           €165
 `Yosemite`_         14 - 17 March        Yosemite Park       US$1299
+`MCE^3`_            21 - 23 April        Warsaw, Poland      €250
 `NSNorth`_          28 — 30 April        Toronto, Canada     CAD$899
 `UIKonf`_           22 - 25 May          Berlin              USD$450
 `WWDC 2016`_        June                 San Francisco       ?
@@ -131,6 +132,7 @@ Name                Date                 Location            Price
 .. _Yosemite: http://cocoaconf.com/yosemite
 .. _mdevcon2016: http://mdevcon.com/
 .. _NSNorth: https://nsnorth.ca/
+.. _MCE^3: http://2016.mceconf.com/
 .. _iOSDevUK: http://www.iosdevuk.com/
 .. _UIKonf: http://www.uikonf.com/
 .. _NSSpain: http://nsspain.com/
